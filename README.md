@@ -9,6 +9,12 @@ https://conanhujinming.github.io/post/
 ## Alexander A.Stepanov
 http://stepanovpapers.com
 
+## 褚霸
+http://blog.yufeng.info/
+
+## 云风
+https://blog.codingnow.com
+
 ## None
 https://coolshell.cn/
 
@@ -32,6 +38,9 @@ https://zhuanlan.zhihu.com/p/175998415
 https://missing.csail.mit.edu
 
 #### 数据库(CMU 15-445）、分布式（MIT 6.824）、软件工程（MIT 6.031)
+
+## Google Technical Writing
+https://developers.google.com/tech-writing
 
 # 书本 & 文章
 ## 自学CS路线
