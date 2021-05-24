@@ -15,6 +15,9 @@ http://blog.yufeng.info/
 ## 云风
 https://blog.codingnow.com
 
+## 美团技术
+https://tech.meituan.com/2020/03/26/meituan-tech-corporate-recruitment.html
+
 ## None
 https://coolshell.cn/
 
