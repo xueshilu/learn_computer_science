@@ -6,6 +6,9 @@ https://blog.mattbierner.com/
 ## Jinming Hu
 https://conanhujinming.github.io/post/
 
+# chenyu xiang
+https://github.com/chenyuxiang0425/CS-Notes
+
 ## huangrt
 https://github.com/huangrt01/CS-Notes
 
