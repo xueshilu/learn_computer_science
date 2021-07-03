@@ -69,3 +69,11 @@ https://memberservices.informit.com/Partner/
 http://elementsofprogramming.com/eop_coloredlinks.pdf
 
 ## Clean Architecture: A Craftsman's Guide to Software Structure and Design
+
+# C++ Resources
+
+## Bjarne Stroustrup's C++ Style and Technique FAQ
+https://www.stroustrup.com/bs_faq2.html#null
+
+## C++ Core Guidelines
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
